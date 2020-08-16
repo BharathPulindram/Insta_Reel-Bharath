@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Insta_Reel-Bharath/static/css/main.26044046.chunk.css",
+    "main.js": "/Insta_Reel-Bharath/static/js/main.a2d0832f.chunk.js",
+    "main.js.map": "/Insta_Reel-Bharath/static/js/main.a2d0832f.chunk.js.map",
+    "runtime-main.js": "/Insta_Reel-Bharath/static/js/runtime-main.0363803b.js",
+    "runtime-main.js.map": "/Insta_Reel-Bharath/static/js/runtime-main.0363803b.js.map",
+    "static/js/2.9aeb8965.chunk.js": "/Insta_Reel-Bharath/static/js/2.9aeb8965.chunk.js",
+    "static/js/2.9aeb8965.chunk.js.map": "/Insta_Reel-Bharath/static/js/2.9aeb8965.chunk.js.map",
+    "index.html": "/Insta_Reel-Bharath/index.html",
+    "precache-manifest.69f12efba623bf794d7073bc5d9c84a5.js": "/Insta_Reel-Bharath/precache-manifest.69f12efba623bf794d7073bc5d9c84a5.js",
+    "service-worker.js": "/Insta_Reel-Bharath/service-worker.js",
+    "static/css/main.26044046.chunk.css.map": "/Insta_Reel-Bharath/static/css/main.26044046.chunk.css.map",
+    "static/js/2.9aeb8965.chunk.js.LICENSE.txt": "/Insta_Reel-Bharath/static/js/2.9aeb8965.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0363803b.js",
+    "static/js/2.9aeb8965.chunk.js",
+    "static/css/main.26044046.chunk.css",
+    "static/js/main.a2d0832f.chunk.js"
+  ]
+}
